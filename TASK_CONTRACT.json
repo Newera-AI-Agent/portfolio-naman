@@ -9,7 +9,6 @@
       "description": "Make a portfolio website for me , I am Naman Soni, Creator of LND ai, talk ai companion, newera ai agent and many more.",
       "mandatory": true,
       "status": "pending",
-      "evidenceType": "custom",
       "acceptanceCriteria": "Concrete implementation evidence is recorded and the outcome matches the user request."
     },
     {
@@ -17,7 +16,6 @@
       "description": "Make it in nextjs , use shascn ui, my GitHub is @namansoni78 (other than GitHub, I have no social profile), you can use internet too for more subdomains of namansoni.in , repo will be public , portfolio-naman will be subdomain.",
       "mandatory": true,
       "status": "pending",
-      "evidenceType": "custom",
       "acceptanceCriteria": "Concrete implementation evidence is recorded and the outcome matches the user request."
     },
     {
@@ -25,7 +23,6 @@
       "description": "Work autonomously",
       "mandatory": true,
       "status": "pending",
-      "evidenceType": "custom",
       "acceptanceCriteria": "Concrete implementation evidence is recorded and the outcome matches the user request."
     }
   ],
@@ -45,5 +42,5 @@
   "permissions": [],
   "deferredItems": [],
   "createdAt": 1788491007160,
-  "updatedAt": 1788491007163
+  "updatedAt": 1788491635083
 }
