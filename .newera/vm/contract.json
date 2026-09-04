@@ -22,8 +22,9 @@
       "id": "REQ-003",
       "description": "Work autonomously",
       "mandatory": true,
-      "status": "pending",
-      "acceptanceCriteria": "Concrete implementation evidence is recorded and the outcome matches the user request."
+      "status": "complete",
+      "acceptanceCriteria": "Concrete implementation evidence is recorded and the outcome matches the user request.",
+      "evidenceRef": "Worked autonomously from the greenfield checkout: scaffolded the app, installed dependencies with `npm install`, ran `npm run lint` successfully (0 errors; only pre-existing runner warnings), ran `npm run build` successfully, verified `out/index.html` and its rendered portfolio markup, and received "
     }
   ]
 }
