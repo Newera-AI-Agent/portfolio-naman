@@ -50,6 +50,7 @@ Scripts: `dev`, `build`, `start`, `lint`
 - default export: `Home`
 
 ### `src/components/ui/badge.tsx` - 20 lines
+- imports: `src/lib/utils.ts`
 - `Badge` (function)
 
 ### `src/components/ui/button.tsx` - 23 lines
@@ -61,4 +62,4 @@ Scripts: `dev`, `build`, `start`, `lint`
 
 ## Unresolved references
 
-- `src/components/ui/badge.tsx:2` imports `@/lib/utils` - **this file does not exist yet**
+- (none) - every internal import resolves.
